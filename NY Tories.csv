@@ -1,581 +1,660 @@
-Names,County ,Addition
-"Amary, John",Albany,Yeoman
-"Adams, John",Albany,Farmer
-"Alt, Hendrick",Montgomery,Farmer
-"Adams, John",Albany,Yeoman
-"Anderson, Joshua",Dutchees,Yeoman
-"Asten, Valentine",Albany,Yeoman
-"Alt, Michael",Montgomery,Yeoman
-"Anguish, John",Montgomery,Laborer
-"Allbrands, Francis",Montgomery,Laborer
-"Anderson, Jonathan",Dutchees,Yeoman
-"Allbrands, Francis",Montgomery,Farmer
-"Alt, Michael ",Montgomery,Farmer
-"Alysa, Isaac",Orange,Yeoman
-"Armstrong, John",Orange,Barber
-"Atlen, Willam",Dutchees,Yeoman
-"Amory, John",Albany,Yeoman
-"Bates, John",Westchester,Yeoman
-"Barker, Thomas",Westchester,Yeoman
-"Blauw, Waldron",Montgomery,Merchant
-"Bogard, Jacolus ",Orange,Yeoman
-"Barker, Thomas",Dutchees,Esquire
-"Bowen, Carnelius",Montgomery,Yeoman
-"Bradt, Albert",Albany,Yeoman
-"Bouck, Christian ",Albany,Yeoman
-"Bowen, William",Montgomery,Yeoman
-"Backer, Bastian ",Albany,Farmer
-"Brigs, Anderson",Albany,Yeoman
-"Brush, Joseph",Dutchees,Cordwainer
-"Betts, Thomas",Long Island,Yeoman
-"Bender, George",Montgomery,Yeoman
-"Becker, Hendricus",Albany,Farmer
-"Brown, Johannis",Albany,Farmer
-"Bouch, Christian",Albany,Farmer
-"Bell, Bederick",Montgomery,Yeoman
-"Bradehouse, Francis",Montgomery,Laborer
-"Bawwer, Casper ",Montgomery,Yeoman
-"Ball, Jacob",Albany,Yeoman
-"Bouck, Adam",Albany,Yeoman
-"Becker, Hammical",Albany,Farmer
-"Becker, Nicholas",Albany,Farmer
-"Blair, John",Montgomery,Farmer
-"Brunson, Samuel",Washington,Farmer
-"Bough, Adam",Albany,Farmer
-"Bradhouse, Francis",Montgomery,Farmer
-"Becker, Coenrad",Albany,Farmer
-"Bowen, Wesel",Montgomery,Yeoman
-"Brown, Adam",Albany,Farmer
-"Becker, Conrad",Albany,Yeoman
-"Backer, Hendrick",Albany,Farmer
-"Bouck, Fredrick",Albany,Yeoman
-"Bouck, David",Albany,Farmer
-"Bouck, Fredrick",Albany,Farmer
-"Becker, Henry",Albany,Yeoman
-"Bough, Frederick",Albany,Farmer
-"Bauck, Adam",Albany,Farmer
-"Bauck, Frederick",Albany,Yeoman
-"Bouck, David",Albany,Yeoman
-"Bauch, Frederick",Albany,Farmer
-"Bauch, David ",Albany,Farmer
-"Becker, Bastion",Albany,Yeoman
-"Becker, Conrad",Albany,Laborer
-"Brown, Michael",Albany,Farmer
-"Becker, Hendricus",Albany,Farmer
-"Bauch, Frederick",Albany,Farmer
-"Bauch, Christian",Albany,Farmer
-"Bauch, Adam",Albany,Farmer
-"Brandt, Mary",Montgomery,Widow
-"Butler, Walter",Montgomery,Gentleman
-"Bradshower, Nicholas",Montgomery,Farmer
-"Burnet, Thomas",Dutchees,Boatman
-"Bauiuet, Peter",Montgomery,Laborer
-"Bogert, Jacobus",Orange,Yeoman
-"Brush, Shuleal",Westchester,Yeoman
-"Beaty, David",Charlotte,Farmer
-"Best, Jacob",Albany,Yeoman
-"Bowen, Henry",Montgomery,Yeoman
-"Baker, Samuel",Westchester,Blacksmith
-"Buskirk, Lawrance",Orange,N/A
-"Brathower, Francis",Montgomery,Farmer
-"Bowen, Henry",Montgomery,Farmer
-"Beatty, James",Montgomery,Farmer
-"Bowen, Luke",Montgomery,Laborer
-"Boyce, John",Albany,Yeoman
-"Bowen, William R.",Montgomery,Laborer
-"Bogerd, Gysberd",Orange,Yeoman
-"Burns, Samuel",Albany,Yeoman
-"Bond, Richard",Albany,Yeoman
-"Beaty, Samuel",Washington,Farmer
-"Burnett, William",Ulster,Laborer
-"Beaty, Thomas",Washington,Farmer
-"Butler, Walter",Montgomery,Gentleman
-"Bull, Richard",Orange,Yeoman
-"Bangel, John",Montgomery,Laborer
-"Bugs, Christian",Montgomery,Laborer
-"Barghley, Jacob",Albany,Yeoman
-"Bowen, Lucas",Montgomery,Blacksmith
-"Bettice, John",Albany,Yeoman
-"Bettice, Jospeh ",Albany,Yeoman
-"Bradt, Anthony A. ",Albany,Yeoman
-"Bowen, William R.",Montgomery,Blacksmith
-"Brant, Mary",Montgomery,Widow
-"Cadtman, Francis",Montgomery,Farmer
-"Crouse, John",Montgomery,Farmer
-"Cammeron, William",Ulster,Farmer
-"Carpenter, Archelaus",Westchester,Cordwainer
-"Coons, Jacob",Montgomery,Laborer
-"Crous, Peter",Montgomery,Yeoman
-"Clement, Joseph",Montgomery,Laborer
-"Cruckshank, Alexander",Albany,Merchant
-"Covell, Sumeon",Albany,Yeoman
-"Cameron, Duncan",Albany,Yeoman
-"Cavert, George",Westchester,Yeoman
-"Cole, Johannis",Dutchees,Farmer
-"Cane, Bernard",Montgomery,Laborer
-"Cooke, Matthias",Dutchees,Farmer
-"Catter, James",Montgomery,Farmer
-"Cook, John",Montgomery,Farmer
-"Castle, Samuel",Washington,Yeoman
-"Carpenter, Henry",Dutchees,Yeoman
-"Carrier, Martinus",Albany,Farmer
-"Clement, Peter",Dutchees,Yeoman
-"Caine, Barnabus",Montgomery,Blacksmith
-"Cayselman, Soverinus",Montgomery,Yeoman
-"Collinger, Henry",Montgomery,Farmer
-"Clarke, Simon",Montgomery,Farmer
-"Cammeron, Duncan",Albany,Yeoman
-"Carrigan, Peter",Albany,Yeoman
-"Cornwell, George",Westchester,Esquire
-"Carpenter, Sattin",Ulster,Yeoman
-"Campbell, Alexander",Washington,Farmer
-Cayselman Severinees,Montgomery,Laborer
-"Clement, Lewis",Montgomery,Yeoman
-"Coons, Banard",Montgomery,Yeoman
-"Cluet, Gerardus J.",Albany,Yeoman
-"Crannell, Bartholemew",Dutchees,Esquire
-"Countryman, Jacob",Montgomery,Farmer
-"Cayselman, William",Montgomery,Laborer
-"Clarewater, Fredric",Ulster,Yeoman
-"Chisholm, John",Montgomery,Farmer
-"Crantz, Michael",Albany,Weaver
-"Cotter, James",Montgomery,Yeoman
-"Cayselman, William",Montgomery,Yeoman
-"Conklin, Thomas",Albany,Yeoman
-"Calarwater, Jacob",Ulster,Yeoman
-"Cerydelman, Joseph",Montgomery,Yeoman
-"Chisholm, George",Montgomery,Farmer
-"Crowder, James",Montgomery,Laborer
-"Cammeron, James",Ulster,Farmer
-"Cammeron, John",Montgomery,Farmer
-"Criysie, John",Montgomery,Farmer
-"Collinger, Michael",Montgomery,Farmer
-"Criselaer, Adam",Albany,Farmer
-"Cayselman, Wermart",Montgomery,Laborer
-"Clariuater, Daniel",Ulster,Yeoman
-"Crawford, Samuel",Albany,Yeoman
-"Carringan, Patrick",Albany,Yeoman
-"Conyne, John",Montgomery,Yeoman
-"Cook, Matthis",Dutchees,Farmer
-"Cock, Goar",Westchester,Yeoman
-"Cummins, Patrick",Westchester,Yeoman
-"Campbell, Duncan",Dutchees,Yeoman
-"Clarkson, Hugh",Montgomery,Farmer
-"Caselman, Werner",Montgomery,Farmer
-"Cammeron, John",Montgomery,Farmer
-"Clement, Lewis",Montgomery,Yeoman
-"Collinger, Christian",Montgomery,Farmer
-"Campbell, Alexander",Montgomery,Farmer
-"Close, Benjamin",Westchester,Yeoman
-"Campbell, Archibald",New York,Colonel in the Army
-"Crawford, James",Westchester,Yeoman
-"Countryman, Jacob",Montgomery,Laborer
-"Clarke, Robert",Albany,Farmer
-"Covell, Simeon",Albany,Yeoman
-"Clement, Johannis L.",Montgomery,Yeoman
-"Crawford, John",Westchester,Yeoman
-"Caselman, Christian",Montgomery,Laborer
-"Clarwater, Isaac",Ulster,Yeoman
-"Countryman, Jacob",Montgomery,Yeoman
-"Cowan, Moses",Albany,Yeoman
-"Cole, Johannis",Albany,Farmer
-"Camine, Leonard",Albany,Yeoman
-"Caverly, Joseph",Ulster,Yeoman
-"Canklin, Joseph A. ",Albany,Yeoman
-"Claghan, John",Albany,Yeoman
-"Conklin, Abraham",Albany,Yeoman
-"Conklin, John A. ",Albany,Yeoman
-"Coons, John",Montgomery,Laborer
-"Cary, Griffin",Westchester,Yeoman
-"DeLong, David",Dutchees,Weaver
-"Deetsworth, Jacob",Albany,Yeoman
-"Duncan, Richard",Albany,Gentleman
-"Davis, Peter",Montgomery,Cordwainer
-"Doran, Peter",Montgomery,Laborer
-"Duysler, Andreas",Montgomery,Farmer
-"Dochstader, John",Montgomery,Yeoman
-"Dederick, Jacob",Montgomery,Laborer
-"Drake, Peter",Westchester,Yeoman
-"Dies, Matthew",Albany,Surveyor
-"Dice, Matthew",Albany ,Yeoman
-"Denny, Nicholas",Montgomery,Blacksmith
-"Dockstader, John",Montgomery,Farmer
-"Dockseller, Ivory Adam",Montgomery,Yeoman
-"Doty, Philip",Albany,None
-"Defoot, Abraham",Albany,Yeoman
-"Daly, Patrick",Montgomery,Farmer
-"Davis, Peter",Montgomery,Yeoman
-"Derby, Benjamin",Ulster,Shoemaker
-"Dean, Nicholas",Orange,Yeoman
-"Davis, Henery",Montgomery,Farmer
-"Dies, Jacob",Albany,Farmer
-"Dodge, Stephen",Dutchees,Carpenter
-"Dunn, John",Montgomery,Yeoman
-"Davis, Peter",Montgomery,Yeoman
-"Dawers, Joseph",Orange,Sadler
-"Duncan, Richard",Albany,Gentleman
-"Dunacan, Richard",Albany,Gentleman
-"Dunacan, Richard",Albany ,Gentleman
-"Dewitt, Evert",Albany,Yeoman
-"Docksteller, Johannis",Montgomery,Yeoman
-"Dewitt, Evert",Albany,Farmer
-"Dennice, Jacques",Kings  ,Captain 
-"Denny, Jacob",Montgomery,Yeoman
-"Davenport, Gabriel",Westchester,Yeoman
-"Devoe, Frederick",Westchester,Yeoman
-"Dop, John",Albany,Yeoman
-"Dingwell, James",Ulster,Farmer
-"Denn, Henery",Albany,Yeoman
-"Dumond, Van Orden William",Albany,Yeoman
-"Dies, Jacob G.",Albany,Yeoman
-"Everson, Evert",Albany,Farmer
-"Eckerson, John ",Orange,Yeoman
-"Eckerson, Jacob",Orange,Yeoman
-"Eickler, William",Albany,Yeoman
-"Empie, Christopher",Montgomery,Yeoman
-"Eckerson, Matthias",Orange,Yeoman
-"Empie, John",Montgomery,Yeoman
-"Empie, Adam W. ",Montgomery,Yeoman
-"Empie, John W. ",Montgomery,Blacksmith
-"Empie, John ",Montgomery,Blacksmith
-"Empie, John P. ",Montgomery,Shoemaker
-"Empie, William P.",Montgomery,Carpenter
-"Empie, Phillip ",Montgomery,Yeoman
-"Empie, William",Montgomery,Yeoman
-"Empie, Phillip P. ",Montgomery,Yeoman
-"Empie, Phillip",Montgomery,Yeoman
-"Emmond, John",Kings  ,Yeoman
-"Edwards, Charles",Albany,Farmer
-"Empie, Phillip",Montgomery,Yeoman
-"Empie, William",Montgomery,Yeoman
-"Emmerson, John",Albany,Farmer
-"Ennis, John",Ulster,Carpenter
-"Empie, Adam P.",Montgomery,Taylor
-"Fowler, Stephen",Westchester,Yeoman
-"Firry, Adam ",Montgomery,Laborer
-"Felwelling, Abel",Ulster,Carpenter
-"French, Charity",Albany,Merchant
-"Frymire, Phillip",Albany,Farmer
-"French, Gersham",Albany,Accompland
-"Fadel, George",Albany,Taylor
-"Fredrick, Barent",Montgomery,Yeoman
-"Fisher, Donald",Washington,Taylor
-"Fox, Frederick",Montgomery,Farmer
-"Forbush, Nicholas",Montgomery,Laborer
-"Fowler, Jonathan",Westchester,Esquire
-"Frymyer, Nicholas",Albany,Farmer
-"Frymyer, Phillip",Albany,Farmer
-"French, Gershom",Albany,Accompland
-"Farlinger, John",Montgomery,Farmer
-"Fowler, Jonathan",Westchester,Yeoman
-"Fowler, Jonathan",Westchester,Yeoman
-"Frazer, William",Albany,Farmer
-"Frey, Barent",Montgomery,Farmer
-"Freehouds, Isaac",Albany,Yeoman
-"Fratz, Henry",Montgomery,Yeoman
-"Farlinger, John",Montgomery,Laborer
-"Frey, Phillip",Montgomery,Yeoman
-"Furry, Rudolph",Montgomery,Yeoman
-"Fowler, Salomen",Westchester,Yeoman
-"Frost, Caleb ",Westchester,Taylor
-"Frost, Jacob",Westchester,Yeoman
-"Frazer, William",Albany,Farmer
-"Fowler, William",Dutchees,Merchant
-"French, Benjamin",Albany,Merchant
-"Ford, Joseph",Dutchees,Farmer
-"Farzier, Daniel",Albany,Wheelwright
-"Frazer, Hugh",Albany,Yeoman
-"Frazer, Thomas",Albany,Farmer
-"Frazer, James",Ulster,Farmer
-"Furival, James",Albany,Tavernkeeper
-"Freeman, Jown",Albany,Yeoman
-"Fowler, Newberry",Westchester,Yeoman
-"Flewelling, Thomas",Westchester,Yeoman
-"Finney, Peter",Montgomery,Laborer
-"Fox, Frederick",Montgomery,Farmer
-"Ferguson, John",Albany,Yeoman
-"Fero, Christian",Albany,None
-"Greene, Joseph",Dutchees,Yeoman
-"Gibbons, Dennis",Albany,Baker
-"Griggs, John",Albany,Yeoman
-"Gafsford, James",Montgomery,Yeoman
-"Gibson, John",Albany,Yeoman
-"Garlough, Peter",Montgomery,Farmer
-"Gafsford, Paul",Montgomery,Farmer
-"Gafsford, Little",Montgomery,Laborer
-"Gidney, Joshua",Dutchees,Yeoman
-"Griffiths, James",Albany,Yeoman
-"Gadman, John",Montgomery,Farmer
-"Gibbons, Dennis",Albany,Baker
-"Gidmey, Joshua",Dutchees,Yeoman
-"Gidmey, Jospeh",Westchester,Yeoman
-"Griggs, John",Albany,Farmer
-"Golden, Joseph",Westchester,Yeoman
-"Garlock, Nicholas",Albany,Farmer
-"Griggs, Abraham",Albany,Yeoman
-"Gollinger, Christian",Montgomery,Yeoman
-"Grands, James",Albany,None
-"Greg, Simon",Albany,Yeoman
-"Gollinger, Michael",Montgomery,Yeoman
-"Green, James",Albany,Yeoman
-"Gordon, William",Montgomery,Farmer
-"Gentle, George",Montgomery,Cordwainer
-"Gibson, John",Albany,Yeoman
-"Gidney, John",Westchester,Innkeeper
-"Glen, Jacob",Albany,Yeoman
-"Glafsford, John",Montgomery,Farmer
-"Hunt, Benjamin",Westchester,Yeoman
-"Holmes, Lewis",Westchester,Yeoman
-"Housen, Israel",Albany,Yeoman
-"Herckermer, George",Montgomery,Yeoman
-"Howard, John",Albany,Yeoman
-"Hansen, Victor",Montgomery,Yeoman
-"House, Hermanus",Montgomery,Yeoman
-"Hagle, John",Albany,Farmer
-"Hutts, James",Orange,Blacksmith
-"Howard, John",Dutchees,Yeoman
-"Holmes, James",Westchester,Colonel in the Army
-"Hammel, Briant",Orange,Yeoman
-"Hagle, John",Albany,Farmer
-"Hooper, John",Albany,Yeoman
-"Helmer, Johannis P.",Montgomery,Laborer
-"Halenbeck, Caspen M.",Albany,Yeoman
-"Hall, Moses",Albany,Mariner
-"Harris, Gilbert",Washington,Yeoman
-"Harris, Samuel ",Dutchees,Yeoman
-"Hagle, Francis",Albany,Yeoman
-"Harding, William",Ulster,Shoemaker
-"Husted, David",Westchester,Boatman
-"Hilton, Benjamin",Albany,Attorney at Law
-"Hooper, John",Albany,Yeoman
-"Hagerdan, Hermaus",Albany,Weaver
-"Hoofer, Adam",Montgomery,Yeoman
-"Holdren, Robert",Albany,Cordwainer
-"Hansen, Richard",Montgomery,Yeoman
-"Herkiemer, George",Montgomery,Laborer
-"Hoffmail, Michael",Washington,Sawyer
-"Howell, John",Montgomery,Yeoman
-"Han, Peter",Montgomery,Yeoman
-"Helmer, Adam",Montgomery,Laborer
-"Helmer, Johan Adam",Montgomery,Yeoman
-"Heyney, Henry",Montgomery,Laborer
-"Hawley, Ezekiel",Westchester,Yeoman
-"Howell, Griffith",Montgomery,Taylor
-"Harlle, John",Montgomery,Laborer
-"Huggeford, Peter",Westchester,Physician
-"Hickie, John",Montgomery,Yeoman
-"Haghidling, Isaac",Albany,Yeoman
-"Hallenbeek, Arent",Albany,Yeoman
-"Hoffnail, John",Washington,Sawyer
-"Holt, Moses",Albany,Mariner
-"Hagle, Francis",Albany,Yeoman
-"Hubbard, James",Kings  ,Yeoman
-"Hilton, Benjamin",Albany,Attorney at Law
-"Hicky, John",Montgomery,Yeoman
-"Howell, John",Montgomery,Yeoman
-"Howard, John",Dutchees,Yeoman
-"House, George",Montgomery,Yeoman
-"Huffman, Nicholas",Dutchees,Merchant
-"Hellen, William",Albany,Yeoman
-"House, John Ivory",Montgomery,Farmer
-"Howell, Griffith",Montgomery,Taylor
-"Ireland, Adam",Westchester,Yeoman
-"Ingraham, Benjamin",Albany,Yeoman
-"Jones, David",Albany,Yeoman
-"Ingraham, Abijah",Albany,Yeoman
-"Jones, John",Washington,Yeoman
-"Jansen, Auloph",Albany,Yeoman
-"Jones, Daniel",Washington,Farmer
-"Johnson, Magdalen",Montgomery,Single Women
-"Johnson, Margarett",Montgomery,Single Women
-"Johnson, Elizabeth",Montgomery,Single Women
-"Jones, Daniel",Washington,Yeoman
-"Johnson, John",Westchester,Merchant
-"Johnston, William",Montgomery,Blacksmith
-"Johnson, Helena",Montgomery,Single Women
-"Jones, Jonathan",Albany,Esquire
-"Jones, Philip",Westchester,Yeoman
-"Jeacock, David",Montgomery,Laborer
-"Ireland, John",Dutchees,Yeoman
-"James, Daivd",Albany,Farmer
-"Klock, Jacob F.",Montgomery,Yeoman
-"Kipp, Benjamin",Westchester,Esquire
-"Keller, Johannes",Montgomery,Laborer
-"Kelder, William",Montgomery,Farmer
-"Knishern, Johannis ",Albany,Farmer
-"Klyne, Philip",Montgomery,Farmer
-"Knap, Moses",Ulster,Farmer
-"Krieselaer, William",Albany,Blacksmith
-"Knieskern, Frederick",Albany,Yeoman
-"Keyser, Philip",Albany,Yeoman
-"Keyser, Phillip",Albany,Farmer
-"Klyne, Adam",Montgomery,Farmer
-"Klyne, Philip Adam",Montgomery,Laborer
-"Keyser, Abraham",Albany,Cordwainer
-"Keyser, Barnabus",Albany,Farmer
-"Krieslar, Adam",Albany,Yeoman
-"Kettle, Andrew",Albany,Yeoman
-"Krieselaer, Adam",Albany,Yeoman
-"Kijoner, William",Montgomery,Yeoman
-"Konstable, Abraham",Ulster,Yeoman
-"Kelder, Johannis ",Montgomery,Yeoman
-"Kirkland, Nicholas",Albany,Yeoman
-"Klach, Adam",Montgomery,Yeoman
-"Kreiselaet, Johannis",Montgomery,Joiner
-"Krislaer, Philip",Montgomery,Yeoman
-"Laucks, Johane Foost",Montgomery,Yeoman
-"Lawyer, Johannis S. ",Albany,Farmer
-"Lill, Alexander",Montgomery,Taylor
-"Leake, John",Albany,Yeoman
-"Lawyer, Abraham L.",Albany,Farmer
-"Lister, Mordecai ",Dutchees,Esquire
-"Lamb, James",Orange,Esquire
-"Lent, Peter",Orange,Esquire
-"Lansing, Philip P.",Albany,Esquire
-"Lawson, Johanis",Dutchees,Yeoman
-"Lent, Adolph",Orange,Yeoman
-"Leonard, James",Ulster,Carpenter
-"Lampman, Fredrick",Albany,Yeoman
-"Lattimore, John",Albany,Yeoman
-"Leroy, Simon, S",Dutchees,Farmer
-"Laraway, Dirick",Albany,Farmer
-"Lawrence, Sephen",Dutchees,Yeoman
-"Lower, Conrad",Montgomery,Yeoman
-"Leanard, George",Ulster,Yeoman
-"Lampson, William",Albany,Farmer
-"Lampson, John",Albany,Farmer
-"Laucks, Peter A.",Montgomery,Yeoman
-"Lent, Abraham",Orange,Esquire
-"Lent, Adolph",Orange,Yeoman
-"Leake, John",Albany,Yeoman
-"Lent, Jabobus",Orange,Yeoman
-"Lucas, Daniel",Washington,Yeoman
-"Laraway, Abraham",Albany,Farmer
-"Law, Willam",Dutchees,Blacksmith
-"Lotridge, Robert",Montgomery,Taylor
-"Louches, Johan Fast",Montgomery,Shoemaker
-"Leonard, John",Ulster,Taylor
-"Long, David",Dutchees,Yeoman
-"Long, David",Dutchees,Weaver
-"Lantman, John",Albany,Yeoman
-"Livingston, John",Montgomery,Farmer
-"Lewis, Benjamin",Ulster,Boatman
-"Lampman, Peter",Albany,None
-"Long, David",Dutchees,Weaver
-"Laraway, Peter",Albany,Farmer
-"Letcher, Cornelus",Albany,Yeoman
-"Leake, Thomas",Albany,Farmer
-"Luke, Philip",Albany,Yeoman
-"Lampman, Johanis",Albany,Yeoman
-"LeRoy, Francis",Dutchees,Farmer
-"Lince, James",Montgomery,Laborer
-"Lewis, Benjamin",Westchester,Yeoman
-"Luke, Philip",Albany,Yeoman
-"Linvingston, John",Montgomery,Farmer
-"Mabie, Corneluis",Orange,Yeoman
-"Marrill, John",Albany,Yeoman
-"McKinsey, Roderick",Dutchees,Taylor
-"Moake, Philip",Albany,Yeoman
-"Martin, Robert",Montgomery,Laborer
-"Mayer, Henry",Montgomery,Farmer
-"Magin, George",Montgomery,Laborer
-"Matthias, John",Albany,Yeoman
-"McInnis, John",Montgomery,Carpenter
-"Marrikle, jacob",Montgomery,Farmer
-"Marrison, John",Albany,Weaver
-"Marrison, Hector",Montgomery,Farmer
-"Markill, Henry",Montgomery,Yeoman
-"Medlar, Johannis",Dutchees,Farmer
-"Merckley, Jacob",Montgomery,Yeoman
-"Marrickle, Frederick",Montgomery,Farmer
-"Marrickle, John",Montgomery,Farmer
-"McDonald, Alexander",Montgomery,Farmer
-"Merritt, Thomas",Westchester,Yeoman
-"Merritt, Joseph",Westchester,Yeoman
-"Mitter, Gilberd",Westchester,Yeoman
-"Mattice, Hindrick",Albany,Farmer
-"Moffat, William",Albany,Merchant
-"McMullin, Hugh",Montgomery,Farmer
-"Matteys, Nicholas",Albany,Yeoman
-"McDonald, John",Montgomery,Farmer
-"Menzies, Thomas",Dutchees,Gentleman
-"McMullin, Dugall",Montgomery,Farmer
-"Munro, Samuel",Albany,Yeoman
-"McDonald, Rory",Montgomery,Farmer
-"McMullin, Angus",Montgomery,Farmer
-"Miller, Stephen",Albany,Yeoman
-"Matteys, John",Albany,Yeoman
-"Mabee, Peter",Albany,Yeoman
-"Munro, Daniel",Albany,Yeoman
-"Marcks, Anthony",Montgomery,Laborer
-"McRoor, John",Montgomery,Yeoman
-"Miller, Jacob",Montgomery,Farmer
-"McGinnis, Robert",Montgomery,Yeoman
-"McDonald, John",Montgomery,Yeoman
-"Merselius, Johannis",Montgomery,Farmer
-"McGlennen, Peter",Albany,Carpenter
-"Miller, Gilbert",Westchester,Yeoman
-"McBride, Alexander",Montgomery,Farmer
-"Moore, William",Ulster,Carpenter
-"Martin, John",Montgomery,Yeoman
-"Maybee, Lewis",Montgomery,Yeoman
-"McNiff, Patrick",Albany,Merchant
-"MaComb, John",Albany,Esquire
-"Marsh, Jacob",Albany,Esquire
-"Mabie, Lewis",Montgomery,Yeoman
-"Miller, Jacob",Montgomery,Farmer
-"Marselius, John",Montgomery,Farmer
-"Manore, John",Albany,Esquire
-"Marcks, Anthony",Montgomery,Farmer
-"Matthyse, Hanickle",Albany,Yeoman
-"McKinsey, Roderick",Dutchees,Taylor
-"Moore, William",Ulster,Carpenter
-"McCoy, John",Westchester,Yeoman
-"McKee, John",Montgomery,Farmer
-"Marr, James",Chemung,Lieutenant In the Army
-"Marselis, Johannis",Montgomery,Shoemaker
-"Mill, Hugh",Montgomery,Farmer
-"McMicken, Peter",Albany,Yeoman
-"McClaughlen, John",Albany,Yeoman
-"Moreshouse, John",Washington,Yeoman
-"Morehouse, Jonathan",Westchester,Taylor
-"McGuin, Daniel",Ulster,Merchant
-"Manroe, Donald",Albany,Farmer
-"Miller, Peter",Albany,Yeoman
-"Mosher, Christopher",Albany,Yeoman
-"Meyers, Stephen",Albany,Yeoman
-"McNish, Joseph",Washington,Farmer
-"Mosier, Hugh",Dutchees,Farmer
-"Mathias, Nicholas",Albany,Yeoman
-"McClannen, Thomas",Dutchees,Yeoman
-"Montague, William",Montgomery,Farmer
-"Mallice, Hendric",Albany,Farmer
-"mcCollister, Terrence",Montgomery,Farmer
-"Murray, John",Montgomery,Farmer
-"Manroe, John",Albany,Esquire
-"McGinnis, Robert",Montgomery,Blacksmith
-"MaGinnis, John",Montgomery,Yeoman
-"McDonald, James",Washington,Physician
-"Miller, Anthony",Westchester,Yeoman
-"McAlpine, Daniel",Albany,Esquire
-"Mott, Jacob",Dutchees,Laborer
-"McCoy, Neal",Montgomery,Farmer
-"Miller, Jacob",Montgomery,Taylor
-"McGinnis, Richard",Montgomery,Shoemaker
-"Maines, John",Washington,Farmer
-"Maritn, Peter",Montgomery,Esquire
-"Morrel, William",Albany,Yeoman
-"McGinnis, George",Montgomery,Laborer
-"McKinsiy, Henery",Albany,Yeoman
-"Mcintosh, Sameas",Albany,Yeoman
-"Manroe, Hugh",Albany,Yeoman
-"Nosen, Bartholomew",Dutchees,Yeoman
-"Nellis, Henery William",Montgomery,Yeoman
-"Nellis, Henery William",Montgomery,Yeoman
-"Nesly, John",Albany,Yeoman
-"Nellis, Robert",Montgomery,Laborer
-"Nicholson, David",Montgomery,Weaver
-"Nellis, Henery William",Montgomery,Yeoman
-"Nesly, Coenraeds",Albany,Yeoman
-"Outwater, Thomas",Orange,Physician
-"Ostrum, Simeon",Dutchees,Farmer
+Names,County ,Addition,County 2,Tory_Pop
+"Amary, John",Albany,Yeoman,Albany,228
+"Adams, John",Albany,Farmer,Montgomery,237
+"Alt, Hendrick",Montgomery,Farmer,Dutchess,51
+"Adams, John",Albany,Yeoman,Orange,25
+"Anderson, Joshua",Dutchess,Yeoman,Westchester,57
+"Asten, Valentine",Albany,Yeoman,Long Island,1
+"Alt, Michael",Montgomery,Yeoman,Washington,18
+"Anguish, John",Montgomery,Laborer,Charlotte,3
+"Allbrands, Francis",Montgomery,Laborer,Ulster,29
+"Anderson, Jonathan",Dutchess,Yeoman,New York,1
+"Allbrands, Francis",Montgomery,Farmer,Albany ,2
+"Alt, Michael ",Montgomery,Farmer,Kings  ,3
+"Alysa, Isaac",Orange,Yeoman,Chemung,3
+"Armstrong, John",Orange,Barber,,
+"Atlen, Willam",Dutchess,Yeoman,,
+"Amory, John",Albany,Yeoman,,
+"Bates, John",Westchester,Yeoman,,
+"Barker, Thomas",Westchester,Yeoman,,
+"Blauw, Waldron",Montgomery,Merchant,,
+"Bogard, Jacolus ",Orange,Yeoman,,
+"Barker, Thomas",Dutchess,Esquire,,
+"Bowen, Carnelius",Montgomery,Yeoman,,
+"Bradt, Albert",Albany,Yeoman,,
+"Bouck, Christian ",Albany,Yeoman,,
+"Bowen, William",Montgomery,Yeoman,,
+"Backer, Bastian ",Albany,Farmer,,
+"Brigs, Anderson",Albany,Yeoman,,
+"Brush, Joseph",Dutchess,Cordwainer,,
+"Betts, Thomas",Long Island,Yeoman,,
+"Bender, George",Montgomery,Yeoman,,
+"Becker, Hendricus",Albany,Farmer,,
+"Brown, Johannis",Albany,Farmer,,
+"Bouch, Christian",Albany,Farmer,,
+"Bell, Bederick",Montgomery,Yeoman,,
+"Bradehouse, Francis",Montgomery,Laborer,,
+"Bawwer, Casper ",Montgomery,Yeoman,,
+"Ball, Jacob",Albany,Yeoman,,
+"Bouck, Adam",Albany,Yeoman,,
+"Becker, Hammical",Albany,Farmer,,
+"Becker, Nicholas",Albany,Farmer,,
+"Blair, John",Montgomery,Farmer,,
+"Brunson, Samuel",Washington,Farmer,,
+"Bough, Adam",Albany,Farmer,,
+"Bradhouse, Francis",Montgomery,Farmer,,
+"Becker, Coenrad",Albany,Farmer,,
+"Bowen, Wesel",Montgomery,Yeoman,,
+"Brown, Adam",Albany,Farmer,,
+"Becker, Conrad",Albany,Yeoman,,
+"Backer, Hendrick",Albany,Farmer,,
+"Bouck, Fredrick",Albany,Yeoman,,
+"Bouck, David",Albany,Farmer,,
+"Bouck, Fredrick",Albany,Farmer,,
+"Becker, Henry",Albany,Yeoman,,
+"Bough, Frederick",Albany,Farmer,,
+"Bauck, Adam",Albany,Farmer,,
+"Bauck, Frederick",Albany,Yeoman,,
+"Bouck, David",Albany,Yeoman,,
+"Bauch, Frederick",Albany,Farmer,,
+"Bauch, David ",Albany,Farmer,,
+"Becker, Bastion",Albany,Yeoman,,
+"Becker, Conrad",Albany,Laborer,,
+"Brown, Michael",Albany,Farmer,,
+"Becker, Hendricus",Albany,Farmer,,
+"Bauch, Frederick",Albany,Farmer,,
+"Bauch, Christian",Albany,Farmer,,
+"Bauch, Adam",Albany,Farmer,,
+"Brandt, Mary",Montgomery,Widow,,
+"Butler, Walter",Montgomery,Gentleman,,
+"Bradshower, Nicholas",Montgomery,Farmer,,
+"Burnet, Thomas",Dutchess,Boatman,,
+"Bauiuet, Peter",Montgomery,Laborer,,
+"Bogert, Jacobus",Orange,Yeoman,,
+"Brush, Shuleal",Westchester,Yeoman,,
+"Beaty, David",Charlotte,Farmer,,
+"Best, Jacob",Albany,Yeoman,,
+"Bowen, Henry",Montgomery,Yeoman,,
+"Baker, Samuel",Westchester,Blacksmith,,
+"Buskirk, Lawrance",Orange,N/A,,
+"Brathower, Francis",Montgomery,Farmer,,
+"Bowen, Henry",Montgomery,Farmer,,
+"Beatty, James",Montgomery,Farmer,,
+"Bowen, Luke",Montgomery,Laborer,,
+"Boyce, John",Albany,Yeoman,,
+"Bowen, William R.",Montgomery,Laborer,,
+"Bogerd, Gysberd",Orange,Yeoman,,
+"Burns, Samuel",Albany,Yeoman,,
+"Bond, Richard",Albany,Yeoman,,
+"Beaty, Samuel",Washington,Farmer,,
+"Burnett, William",Ulster,Laborer,,
+"Beaty, Thomas",Washington,Farmer,,
+"Butler, Walter",Montgomery,Gentleman,,
+"Bull, Richard",Orange,Yeoman,,
+"Bangel, John",Montgomery,Laborer,,
+"Bugs, Christian",Montgomery,Laborer,,
+"Barghley, Jacob",Albany,Yeoman,,
+"Bowen, Lucas",Montgomery,Blacksmith,,
+"Bettice, John",Albany,Yeoman,,
+"Bettice, Jospeh ",Albany,Yeoman,,
+"Bradt, Anthony A. ",Albany,Yeoman,,
+"Bowen, William R.",Montgomery,Blacksmith,,
+"Brant, Mary",Montgomery,Widow,,
+"Cadtman, Francis",Montgomery,Farmer,,
+"Crouse, John",Montgomery,Farmer,,
+"Cammeron, William",Ulster,Farmer,,
+"Carpenter, Archelaus",Westchester,Cordwainer,,
+"Coons, Jacob",Montgomery,Laborer,,
+"Crous, Peter",Montgomery,Yeoman,,
+"Clement, Joseph",Montgomery,Laborer,,
+"Cruckshank, Alexander",Albany,Merchant,,
+"Covell, Sumeon",Albany,Yeoman,,
+"Cameron, Duncan",Albany,Yeoman,,
+"Cavert, George",Westchester,Yeoman,,
+"Cole, Johannis",Dutchess,Farmer,,
+"Cane, Bernard",Montgomery,Laborer,,
+"Cooke, Matthias",Dutchess,Farmer,,
+"Catter, James",Montgomery,Farmer,,
+"Cook, John",Montgomery,Farmer,,
+"Castle, Samuel",Washington,Yeoman,,
+"Carpenter, Henry",Dutchess,Yeoman,,
+"Carrier, Martinus",Albany,Farmer,,
+"Clement, Peter",Dutchess,Yeoman,,
+"Caine, Barnabus",Montgomery,Blacksmith,,
+"Cayselman, Soverinus",Montgomery,Yeoman,,
+"Collinger, Henry",Montgomery,Farmer,,
+"Clarke, Simon",Montgomery,Farmer,,
+"Cammeron, Duncan",Albany,Yeoman,,
+"Carrigan, Peter",Albany,Yeoman,,
+"Cornwell, George",Westchester,Esquire,,
+"Carpenter, Sattin",Ulster,Yeoman,,
+"Campbell, Alexander",Washington,Farmer,,
+Cayselman Severinees,Montgomery,Laborer,,
+"Clement, Lewis",Montgomery,Yeoman,,
+"Coons, Banard",Montgomery,Yeoman,,
+"Cluet, Gerardus J.",Albany,Yeoman,,
+"Crannell, Bartholemew",Dutchess,Esquire,,
+"Countryman, Jacob",Montgomery,Farmer,,
+"Cayselman, William",Montgomery,Laborer,,
+"Clarewater, Fredric",Ulster,Yeoman,,
+"Chisholm, John",Montgomery,Farmer,,
+"Crantz, Michael",Albany,Weaver,,
+"Cotter, James",Montgomery,Yeoman,,
+"Cayselman, William",Montgomery,Yeoman,,
+"Conklin, Thomas",Albany,Yeoman,,
+"Calarwater, Jacob",Ulster,Yeoman,,
+"Cerydelman, Joseph",Montgomery,Yeoman,,
+"Chisholm, George",Montgomery,Farmer,,
+"Crowder, James",Montgomery,Laborer,,
+"Cammeron, James",Ulster,Farmer,,
+"Cammeron, John",Montgomery,Farmer,,
+"Criysie, John",Montgomery,Farmer,,
+"Collinger, Michael",Montgomery,Farmer,,
+"Criselaer, Adam",Albany,Farmer,,
+"Cayselman, Wermart",Montgomery,Laborer,,
+"Clariuater, Daniel",Ulster,Yeoman,,
+"Crawford, Samuel",Albany,Yeoman,,
+"Carringan, Patrick",Albany,Yeoman,,
+"Conyne, John",Montgomery,Yeoman,,
+"Cook, Matthis",Dutchess,Farmer,,
+"Cock, Goar",Westchester,Yeoman,,
+"Cummins, Patrick",Westchester,Yeoman,,
+"Campbell, Duncan",Dutchess,Yeoman,,
+"Clarkson, Hugh",Montgomery,Farmer,,
+"Caselman, Werner",Montgomery,Farmer,,
+"Cammeron, John",Montgomery,Farmer,,
+"Clement, Lewis",Montgomery,Yeoman,,
+"Collinger, Christian",Montgomery,Farmer,,
+"Campbell, Alexander",Montgomery,Farmer,,
+"Close, Benjamin",Westchester,Yeoman,,
+"Campbell, Archibald",New York,Colonel in the Army,,
+"Crawford, James",Westchester,Yeoman,,
+"Countryman, Jacob",Montgomery,Laborer,,
+"Clarke, Robert",Albany,Farmer,,
+"Covell, Simeon",Albany,Yeoman,,
+"Clement, Johannis L.",Montgomery,Yeoman,,
+"Crawford, John",Westchester,Yeoman,,
+"Caselman, Christian",Montgomery,Laborer,,
+"Clarwater, Isaac",Ulster,Yeoman,,
+"Countryman, Jacob",Montgomery,Yeoman,,
+"Cowan, Moses",Albany,Yeoman,,
+"Cole, Johannis",Albany,Farmer,,
+"Camine, Leonard",Albany,Yeoman,,
+"Caverly, Joseph",Ulster,Yeoman,,
+"Canklin, Joseph A. ",Albany,Yeoman,,
+"Claghan, John",Albany,Yeoman,,
+"Conklin, Abraham",Albany,Yeoman,,
+"Conklin, John A. ",Albany,Yeoman,,
+"Coons, John",Montgomery,Laborer,,
+"Cary, Griffin",Westchester,Yeoman,,
+"DeLong, David",Dutchess,Weaver,,
+"Deetsworth, Jacob",Albany,Yeoman,,
+"Duncan, Richard",Albany,Gentleman,,
+"Davis, Peter",Montgomery,Cordwainer,,
+"Doran, Peter",Montgomery,Laborer,,
+"Duysler, Andreas",Montgomery,Farmer,,
+"Dochstader, John",Montgomery,Yeoman,,
+"Dederick, Jacob",Montgomery,Laborer,,
+"Drake, Peter",Westchester,Yeoman,,
+"Dies, Matthew",Albany,Surveyor,,
+"Dice, Matthew",Albany ,Yeoman,,
+"Denny, Nicholas",Montgomery,Blacksmith,,
+"Dockstader, John",Montgomery,Farmer,,
+"Dockseller, Ivory Adam",Montgomery,Yeoman,,
+"Doty, Philip",Albany,None,,
+"Defoot, Abraham",Albany,Yeoman,,
+"Daly, Patrick",Montgomery,Farmer,,
+"Davis, Peter",Montgomery,Yeoman,,
+"Derby, Benjamin",Ulster,Shoemaker,,
+"Dean, Nicholas",Orange,Yeoman,,
+"Davis, Henery",Montgomery,Farmer,,
+"Dies, Jacob",Albany,Farmer,,
+"Dodge, Stephen",Dutchess,Carpenter,,
+"Dunn, John",Montgomery,Yeoman,,
+"Davis, Peter",Montgomery,Yeoman,,
+"Dawers, Joseph",Orange,Sadler,,
+"Duncan, Richard",Albany,Gentleman,,
+"Dunacan, Richard",Albany,Gentleman,,
+"Dunacan, Richard",Albany ,Gentleman,,
+"Dewitt, Evert",Albany,Yeoman,,
+"Docksteller, Johannis",Montgomery,Yeoman,,
+"Dewitt, Evert",Albany,Farmer,,
+"Dennice, Jacques",Kings  ,Captain ,,
+"Denny, Jacob",Montgomery,Yeoman,,
+"Davenport, Gabriel",Westchester,Yeoman,,
+"Devoe, Frederick",Westchester,Yeoman,,
+"Dop, John",Albany,Yeoman,,
+"Dingwell, James",Ulster,Farmer,,
+"Denn, Henery",Albany,Yeoman,,
+"Dumond, Van Orden William",Albany,Yeoman,,
+"Dies, Jacob G.",Albany,Yeoman,,
+"Everson, Evert",Albany,Farmer,,
+"Eckerson, John ",Orange,Yeoman,,
+"Eckerson, Jacob",Orange,Yeoman,,
+"Eickler, William",Albany,Yeoman,,
+"Empie, Christopher",Montgomery,Yeoman,,
+"Eckerson, Matthias",Orange,Yeoman,,
+"Empie, John",Montgomery,Yeoman,,
+"Empie, Adam W. ",Montgomery,Yeoman,,
+"Empie, John W. ",Montgomery,Blacksmith,,
+"Empie, John ",Montgomery,Blacksmith,,
+"Empie, John P. ",Montgomery,Shoemaker,,
+"Empie, William P.",Montgomery,Carpenter,,
+"Empie, Phillip ",Montgomery,Yeoman,,
+"Empie, William",Montgomery,Yeoman,,
+"Empie, Phillip P. ",Montgomery,Yeoman,,
+"Empie, Phillip",Montgomery,Yeoman,,
+"Emmond, John",Kings  ,Yeoman,,
+"Edwards, Charles",Albany,Farmer,,
+"Empie, Phillip",Montgomery,Yeoman,,
+"Empie, William",Montgomery,Yeoman,,
+"Emmerson, John",Albany,Farmer,,
+"Ennis, John",Ulster,Carpenter,,
+"Empie, Adam P.",Montgomery,Taylor,,
+"Fowler, Stephen",Westchester,Yeoman,,
+"Firry, Adam ",Montgomery,Laborer,,
+"Felwelling, Abel",Ulster,Carpenter,,
+"French, Charity",Albany,Merchant,,
+"Frymire, Phillip",Albany,Farmer,,
+"French, Gersham",Albany,Accompland,,
+"Fadel, George",Albany,Taylor,,
+"Fredrick, Barent",Montgomery,Yeoman,,
+"Fisher, Donald",Washington,Taylor,,
+"Fox, Frederick",Montgomery,Farmer,,
+"Forbush, Nicholas",Montgomery,Laborer,,
+"Fowler, Jonathan",Westchester,Esquire,,
+"Frymyer, Nicholas",Albany,Farmer,,
+"Frymyer, Phillip",Albany,Farmer,,
+"French, Gershom",Albany,Accompland,,
+"Farlinger, John",Montgomery,Farmer,,
+"Fowler, Jonathan",Westchester,Yeoman,,
+"Fowler, Jonathan",Westchester,Yeoman,,
+"Frazer, William",Albany,Farmer,,
+"Frey, Barent",Montgomery,Farmer,,
+"Freehouds, Isaac",Albany,Yeoman,,
+"Fratz, Henry",Montgomery,Yeoman,,
+"Farlinger, John",Montgomery,Laborer,,
+"Frey, Phillip",Montgomery,Yeoman,,
+"Furry, Rudolph",Montgomery,Yeoman,,
+"Fowler, Salomen",Westchester,Yeoman,,
+"Frost, Caleb ",Westchester,Taylor,,
+"Frost, Jacob",Westchester,Yeoman,,
+"Frazer, William",Albany,Farmer,,
+"Fowler, William",Dutchess,Merchant,,
+"French, Benjamin",Albany,Merchant,,
+"Ford, Joseph",Dutchess,Farmer,,
+"Farzier, Daniel",Albany,Wheelwright,,
+"Frazer, Hugh",Albany,Yeoman,,
+"Frazer, Thomas",Albany,Farmer,,
+"Frazer, James",Ulster,Farmer,,
+"Furival, James",Albany,Tavernkeeper,,
+"Freeman, Jown",Albany,Yeoman,,
+"Fowler, Newberry",Westchester,Yeoman,,
+"Flewelling, Thomas",Westchester,Yeoman,,
+"Finney, Peter",Montgomery,Laborer,,
+"Fox, Frederick",Montgomery,Farmer,,
+"Ferguson, John",Albany,Yeoman,,
+"Fero, Christian",Albany,None,,
+"Greene, Joseph",Dutchess,Yeoman,,
+"Gibbons, Dennis",Albany,Baker,,
+"Griggs, John",Albany,Yeoman,,
+"Gafsford, James",Montgomery,Yeoman,,
+"Gibson, John",Albany,Yeoman,,
+"Garlough, Peter",Montgomery,Farmer,,
+"Gafsford, Paul",Montgomery,Farmer,,
+"Gafsford, Little",Montgomery,Laborer,,
+"Gidney, Joshua",Dutchess,Yeoman,,
+"Griffiths, James",Albany,Yeoman,,
+"Gadman, John",Montgomery,Farmer,,
+"Gibbons, Dennis",Albany,Baker,,
+"Gidmey, Joshua",Dutchess,Yeoman,,
+"Gidmey, Jospeh",Westchester,Yeoman,,
+"Griggs, John",Albany,Farmer,,
+"Golden, Joseph",Westchester,Yeoman,,
+"Garlock, Nicholas",Albany,Farmer,,
+"Griggs, Abraham",Albany,Yeoman,,
+"Gollinger, Christian",Montgomery,Yeoman,,
+"Grands, James",Albany,None,,
+"Greg, Simon",Albany,Yeoman,,
+"Gollinger, Michael",Montgomery,Yeoman,,
+"Green, James",Albany,Yeoman,,
+"Gordon, William",Montgomery,Farmer,,
+"Gentle, George",Montgomery,Cordwainer,,
+"Gibson, John",Albany,Yeoman,,
+"Gidney, John",Westchester,Innkeeper,,
+"Glen, Jacob",Albany,Yeoman,,
+"Glafsford, John",Montgomery,Farmer,,
+"Hunt, Benjamin",Westchester,Yeoman,,
+"Holmes, Lewis",Westchester,Yeoman,,
+"Housen, Israel",Albany,Yeoman,,
+"Herckermer, George",Montgomery,Yeoman,,
+"Howard, John",Albany,Yeoman,,
+"Hansen, Victor",Montgomery,Yeoman,,
+"House, Hermanus",Montgomery,Yeoman,,
+"Hagle, John",Albany,Farmer,,
+"Hutts, James",Orange,Blacksmith,,
+"Howard, John",Dutchess,Yeoman,,
+"Holmes, James",Westchester,Colonel in the Army,,
+"Hammel, Briant",Orange,Yeoman,,
+"Hagle, John",Albany,Farmer,,
+"Hooper, John",Albany,Yeoman,,
+"Helmer, Johannis P.",Montgomery,Laborer,,
+"Halenbeck, Caspen M.",Albany,Yeoman,,
+"Hall, Moses",Albany,Mariner,,
+"Harris, Gilbert",Washington,Yeoman,,
+"Harris, Samuel ",Dutchess,Yeoman,,
+"Hagle, Francis",Albany,Yeoman,,
+"Harding, William",Ulster,Shoemaker,,
+"Husted, David",Westchester,Boatman,,
+"Hilton, Benjamin",Albany,Attorney at Law,,
+"Hooper, John",Albany,Yeoman,,
+"Hagerdan, Hermaus",Albany,Weaver,,
+"Hoofer, Adam",Montgomery,Yeoman,,
+"Holdren, Robert",Albany,Cordwainer,,
+"Hansen, Richard",Montgomery,Yeoman,,
+"Herkiemer, George",Montgomery,Laborer,,
+"Hoffmail, Michael",Washington,Sawyer,,
+"Howell, John",Montgomery,Yeoman,,
+"Han, Peter",Montgomery,Yeoman,,
+"Helmer, Adam",Montgomery,Laborer,,
+"Helmer, Johan Adam",Montgomery,Yeoman,,
+"Heyney, Henry",Montgomery,Laborer,,
+"Hawley, Ezekiel",Westchester,Yeoman,,
+"Howell, Griffith",Montgomery,Taylor,,
+"Harlle, John",Montgomery,Laborer,,
+"Huggeford, Peter",Westchester,Physician,,
+"Hickie, John",Montgomery,Yeoman,,
+"Haghidling, Isaac",Albany,Yeoman,,
+"Hallenbeek, Arent",Albany,Yeoman,,
+"Hoffnail, John",Washington,Sawyer,,
+"Holt, Moses",Albany,Mariner,,
+"Hagle, Francis",Albany,Yeoman,,
+"Hubbard, James",Kings  ,Yeoman,,
+"Hilton, Benjamin",Albany,Attorney at Law,,
+"Hicky, John",Montgomery,Yeoman,,
+"Howell, John",Montgomery,Yeoman,,
+"Howard, John",Dutchess,Yeoman,,
+"House, George",Montgomery,Yeoman,,
+"Huffman, Nicholas",Dutchess,Merchant,,
+"Hellen, William",Albany,Yeoman,,
+"House, John Ivory",Montgomery,Farmer,,
+"Howell, Griffith",Montgomery,Taylor,,
+"Ireland, Adam",Westchester,Yeoman,,
+"Ingraham, Benjamin",Albany,Yeoman,,
+"Jones, David",Albany,Yeoman,,
+"Ingraham, Abijah",Albany,Yeoman,,
+"Jones, John",Washington,Yeoman,,
+"Jansen, Auloph",Albany,Yeoman,,
+"Jones, Daniel",Washington,Farmer,,
+"Johnson, Magdalen",Montgomery,Single Women,,
+"Johnson, Margarett",Montgomery,Single Women,,
+"Johnson, Elizabeth",Montgomery,Single Women,,
+"Jones, Daniel",Washington,Yeoman,,
+"Johnson, John",Westchester,Merchant,,
+"Johnston, William",Montgomery,Blacksmith,,
+"Johnson, Helena",Montgomery,Single Women,,
+"Jones, Jonathan",Albany,Esquire,,
+"Jones, Philip",Westchester,Yeoman,,
+"Jeacock, David",Montgomery,Laborer,,
+"Ireland, John",Dutchess,Yeoman,,
+"James, Daivd",Albany,Farmer,,
+"Klock, Jacob F.",Montgomery,Yeoman,,
+"Kipp, Benjamin",Westchester,Esquire,,
+"Keller, Johannes",Montgomery,Laborer,,
+"Kelder, William",Montgomery,Farmer,,
+"Knishern, Johannis ",Albany,Farmer,,
+"Klyne, Philip",Montgomery,Farmer,,
+"Knap, Moses",Ulster,Farmer,,
+"Krieselaer, William",Albany,Blacksmith,,
+"Knieskern, Frederick",Albany,Yeoman,,
+"Keyser, Philip",Albany,Yeoman,,
+"Keyser, Phillip",Albany,Farmer,,
+"Klyne, Adam",Montgomery,Farmer,,
+"Klyne, Philip Adam",Montgomery,Laborer,,
+"Keyser, Abraham",Albany,Cordwainer,,
+"Keyser, Barnabus",Albany,Farmer,,
+"Krieslar, Adam",Albany,Yeoman,,
+"Kettle, Andrew",Albany,Yeoman,,
+"Krieselaer, Adam",Albany,Yeoman,,
+"Kijoner, William",Montgomery,Yeoman,,
+"Konstable, Abraham",Ulster,Yeoman,,
+"Kelder, Johannis ",Montgomery,Yeoman,,
+"Kirkland, Nicholas",Albany,Yeoman,,
+"Klach, Adam",Montgomery,Yeoman,,
+"Kreiselaet, Johannis",Montgomery,Joiner,,
+"Krislaer, Philip",Montgomery,Yeoman,,
+"Laucks, Johane Foost",Montgomery,Yeoman,,
+"Lawyer, Johannis S. ",Albany,Farmer,,
+"Lill, Alexander",Montgomery,Taylor,,
+"Leake, John",Albany,Yeoman,,
+"Lawyer, Abraham L.",Albany,Farmer,,
+"Lister, Mordecai ",Dutchess,Esquire,,
+"Lamb, James",Orange,Esquire,,
+"Lent, Peter",Orange,Esquire,,
+"Lansing, Philip P.",Albany,Esquire,,
+"Lawson, Johanis",Dutchess,Yeoman,,
+"Lent, Adolph",Orange,Yeoman,,
+"Leonard, James",Ulster,Carpenter,,
+"Lampman, Fredrick",Albany,Yeoman,,
+"Lattimore, John",Albany,Yeoman,,
+"Leroy, Simon, S",Dutchess,Farmer,,
+"Laraway, Dirick",Albany,Farmer,,
+"Lawrence, Sephen",Dutchess,Yeoman,,
+"Lower, Conrad",Montgomery,Yeoman,,
+"Leanard, George",Ulster,Yeoman,,
+"Lampson, William",Albany,Farmer,,
+"Lampson, John",Albany,Farmer,,
+"Laucks, Peter A.",Montgomery,Yeoman,,
+"Lent, Abraham",Orange,Esquire,,
+"Lent, Adolph",Orange,Yeoman,,
+"Leake, John",Albany,Yeoman,,
+"Lent, Jabobus",Orange,Yeoman,,
+"Lucas, Daniel",Washington,Yeoman,,
+"Laraway, Abraham",Albany,Farmer,,
+"Law, Willam",Dutchess,Blacksmith,,
+"Lotridge, Robert",Montgomery,Taylor,,
+"Louches, Johan Fast",Montgomery,Shoemaker,,
+"Leonard, John",Ulster,Taylor,,
+"Long, David",Dutchess,Yeoman,,
+"Long, David",Dutchess,Weaver,,
+"Lantman, John",Albany,Yeoman,,
+"Livingston, John",Montgomery,Farmer,,
+"Lewis, Benjamin",Ulster,Boatman,,
+"Lampman, Peter",Albany,None,,
+"Long, David",Dutchess,Weaver,,
+"Laraway, Peter",Albany,Farmer,,
+"Letcher, Cornelus",Albany,Yeoman,,
+"Leake, Thomas",Albany,Farmer,,
+"Luke, Philip",Albany,Yeoman,,
+"Lampman, Johanis",Albany,Yeoman,,
+"LeRoy, Francis",Dutchess,Farmer,,
+"Lince, James",Montgomery,Laborer,,
+"Lewis, Benjamin",Westchester,Yeoman,,
+"Luke, Philip",Albany,Yeoman,,
+"Linvingston, John",Montgomery,Farmer,,
+"Mabie, Corneluis",Orange,Yeoman,,
+"Marrill, John",Albany,Yeoman,,
+"McKinsey, Roderick",Dutchess,Taylor,,
+"Moake, Philip",Albany,Yeoman,,
+"Martin, Robert",Montgomery,Laborer,,
+"Mayer, Henry",Montgomery,Farmer,,
+"Magin, George",Montgomery,Laborer,,
+"Matthias, John",Albany,Yeoman,,
+"McInnis, John",Montgomery,Carpenter,,
+"Marrikle, jacob",Montgomery,Farmer,,
+"Marrison, John",Albany,Weaver,,
+"Marrison, Hector",Montgomery,Farmer,,
+"Markill, Henry",Montgomery,Yeoman,,
+"Medlar, Johannis",Dutchess,Farmer,,
+"Merckley, Jacob",Montgomery,Yeoman,,
+"Marrickle, Frederick",Montgomery,Farmer,,
+"Marrickle, John",Montgomery,Farmer,,
+"McDonald, Alexander",Montgomery,Farmer,,
+"Merritt, Thomas",Westchester,Yeoman,,
+"Merritt, Joseph",Westchester,Yeoman,,
+"Mitter, Gilberd",Westchester,Yeoman,,
+"Mattice, Hindrick",Albany,Farmer,,
+"Moffat, William",Albany,Merchant,,
+"McMullin, Hugh",Montgomery,Farmer,,
+"Matteys, Nicholas",Albany,Yeoman,,
+"McDonald, John",Montgomery,Farmer,,
+"Menzies, Thomas",Dutchess,Gentleman,,
+"McMullin, Dugall",Montgomery,Farmer,,
+"Munro, Samuel",Albany,Yeoman,,
+"McDonald, Rory",Montgomery,Farmer,,
+"McMullin, Angus",Montgomery,Farmer,,
+"Miller, Stephen",Albany,Yeoman,,
+"Matteys, John",Albany,Yeoman,,
+"Mabee, Peter",Albany,Yeoman,,
+"Munro, Daniel",Albany,Yeoman,,
+"Marcks, Anthony",Montgomery,Laborer,,
+"McRoor, John",Montgomery,Yeoman,,
+"Miller, Jacob",Montgomery,Farmer,,
+"McGinnis, Robert",Montgomery,Yeoman,,
+"McDonald, John",Montgomery,Yeoman,,
+"Merselius, Johannis",Montgomery,Farmer,,
+"McGlennen, Peter",Albany,Carpenter,,
+"Miller, Gilbert",Westchester,Yeoman,,
+"McBride, Alexander",Montgomery,Farmer,,
+"Moore, William",Ulster,Carpenter,,
+"Martin, John",Montgomery,Yeoman,,
+"Maybee, Lewis",Montgomery,Yeoman,,
+"McNiff, Patrick",Albany,Merchant,,
+"MaComb, John",Albany,Esquire,,
+"Marsh, Jacob",Albany,Esquire,,
+"Mabie, Lewis",Montgomery,Yeoman,,
+"Miller, Jacob",Montgomery,Farmer,,
+"Marselius, John",Montgomery,Farmer,,
+"Manore, John",Albany,Esquire,,
+"Marcks, Anthony",Montgomery,Farmer,,
+"Matthyse, Hanickle",Albany,Yeoman,,
+"McKinsey, Roderick",Dutchess,Taylor,,
+"Moore, William",Ulster,Carpenter,,
+"McCoy, John",Westchester,Yeoman,,
+"McKee, John",Montgomery,Farmer,,
+"Marr, James",Chemung,Lieutenant In the Army,,
+"Marselis, Johannis",Montgomery,Shoemaker,,
+"Mill, Hugh",Montgomery,Farmer,,
+"McMicken, Peter",Albany,Yeoman,,
+"McClaughlen, John",Albany,Yeoman,,
+"Moreshouse, John",Washington,Yeoman,,
+"Morehouse, Jonathan",Westchester,Taylor,,
+"McGuin, Daniel",Ulster,Merchant,,
+"Manroe, Donald",Albany,Farmer,,
+"Miller, Peter",Albany,Yeoman,,
+"Mosher, Christopher",Albany,Yeoman,,
+"Meyers, Stephen",Albany,Yeoman,,
+"McNish, Joseph",Washington,Farmer,,
+"Mosier, Hugh",Dutchess,Farmer,,
+"Mathias, Nicholas",Albany,Yeoman,,
+"McClannen, Thomas",Dutchess,Yeoman,,
+"Montague, William",Montgomery,Farmer,,
+"Mallice, Hendric",Albany,Farmer,,
+"mcCollister, Terrence",Montgomery,Farmer,,
+"Murray, John",Montgomery,Farmer,,
+"Manroe, John",Albany,Esquire,,
+"McGinnis, Robert",Montgomery,Blacksmith,,
+"MaGinnis, John",Montgomery,Yeoman,,
+"McDonald, James",Washington,Physician,,
+"Miller, Anthony",Westchester,Yeoman,,
+"McAlpine, Daniel",Albany,Esquire,,
+"Mott, Jacob",Dutchess,Laborer,,
+"McCoy, Neal",Montgomery,Farmer,,
+"Miller, Jacob",Montgomery,Taylor,,
+"McGinnis, Richard",Montgomery,Shoemaker,,
+"Maines, John",Washington,Farmer,,
+"Maritn, Peter",Montgomery,Esquire,,
+"Morrel, William",Albany,Yeoman,,
+"McGinnis, George",Montgomery,Laborer,,
+"McKinsiy, Henery",Albany,Yeoman,,
+"Mcintosh, Sameas",Albany,Yeoman,,
+"Manroe, Hugh",Albany,Yeoman,,
+"Nosen, Bartholomew",Dutchess,Yeoman,,
+"Nellis, Henery William",Montgomery,Yeoman,,
+"Nellis, Henery William",Montgomery,Yeoman,,
+"Nesly, John",Albany,Yeoman,,
+"Nellis, Robert",Montgomery,Laborer,,
+"Nicholson, David",Montgomery,Weaver,,
+"Nellis, Henery William",Montgomery,Yeoman,,
+"Nesly, Coenraeds",Albany,Yeoman,,
+"Outwater, Thomas",Orange,Physician,,
+"Ostrum, Simeon",Dutchess,Farmer,,
+"Ostrum, John",Dutchess,Farmer,,
+"Ogden, Benjamin",Westchester,Yeoman,,
+"Oakley, Miles",Westchester,Innkeeper,,
+"Oliver, Frederick",Albany,Yeoman,,
+"O'Neil, James",Albany,Yeoman,,
+"Osburn, Nathan",Westchester,Yeoman,,
+"Planck, John",Montgomery,Farmer,,
+"Potter, Joseph",Albany,Yeoman,,
+"Parrot, James",Albany,Yeoman,,
+"Platto, Christian",Albany,Yeoman,,
+"Prindle, Doctor",Washington,Yeoman,,
+"Petrie, Jost",Montgomery,Laborer,,
+"Purdy, Gilbert",Westchester,Yeoman,,
+"Powell, Joseph",Montgomery,Yeoman,,
+"Pell, Joshua",Westchester,Yeoman,,
+"Pell, John",Westchester,Yeoman,,
+"Platt, John",Albany,Blacksmith,,
+"Parrot, James",Albany,Yeoman,,
+"Pfister, Francis",Albany,Yeoman,,
+"Purdy, Nathan",Ulster,Cooper,,
+"Peck, Balel",Montgomery,Carpenter,,
+"Purdy, Gilbert",Ulster,Shipwright,,
+"Parrot, James",Albany,Farmer,,
+"Premart, Francis",Westchester,Boatman,,
+"Price, William",Albany,Farmer,,
+"Petrie, Jost",Montgomery,Yeoman,,
+"Purdy, Gilbert",Dutchess,Yeoman,,
+"Pothemus, Johannes",Chemung,Innkeeper,,
+"Palmer, Lewis",Westchester,Yeoman,,
+"Parteto, Amos",Dutchess,Farmer,,
+"Prindle, Joel",Charlotte,Yeoman,,
+"Pickerd, George",Montgomery,Laborer,,
+"Pemberton, Jeremiah",Albany,Breadwinner,,
+"Powers, Richard",Albany,Farmer,,
+"Parks, James",Montgomery,Farmer,,
+"Purvis, John",Montgomery,Farmer,,
+"Quackinbush, William",Montgomery,Yeoman,,
+"Quackinbush, Goose",Albany,Farmer,,
+"Quackenbols, Adrian",Albany,Yeoman,,
+"Ruyter, John",Albany,Yeoman,,
+"Rubblee, Thomas",Dutchess,Yeoman,,
+"Rosa, Gilbert",Ulster,Farmer,,
+"Reect, William",Westchester,N/A,,
+"Rosa, Jacobus",Ulster,Yeoman,,
+"Rubblee, John ",Dutchess,Yeoman,,
+"Rogers, John",Albany,Farmer,,
+"Remsen, Johannes",Kings,Breadwinner,,
+"Rogers, William",Albany,Farmer,,
+"Reemer, John",Albany,Yeoman,,
+"Rapeljie, Abraham",Chemung,Innkeeper,,
+"Righly, Andrew",Charlotte,Yeoman,,
+"Ruysell, Jacob",Ulster,Yeoman,,
+"Rowlans, Smith",Dutchess,Carpenter,,
+"Ryckanan, John",Montgomery,Blacksmith,,
+"Rosenkrantz, Nicholas",Montgomery,Laborer,,
+"Rose, Jacob",Montgomery,Farmer,,
+"Rice, John",Montgomery,Laborer,,
+"Rogers, William",Albany,Farmer,,
+"Robinson, Thomas",Albany,Yeoman,,
+"Rider, Ebenezer",Dutchess,Yeoman,,
+"Ruyter, Henry",Albany,Yeoman,,
+"Rose, Daniel",Montgomery,Farmer,,
+"Rose, William",Montgomery,Farmer,,
+"Rols, Jacob",Montgomery,Laborer,,
+"Row, John",Dutchess,Yeoman,,
+"Reed, William",Westchester,N/A,,
+"Stilwell, Samuel",Albany,N/A,,
+"Springsted, John",Orange,Blacksmith,,
+"Seamans, Adam",Westchester,Yeoman,,
+"Sneedeker, Theodorus",Orange,Yeoman,,
+"Smith, Joshua",Orange,Gentleman,,
+"Steenbrander, Jacob",Montgomery,Farmer,,
+"Shaver, Nicholas",Albany,Yeoman,,
+"Service, Daniel",Montgomery,Yeoman,,
+"Shell, Johannis",Montgomery,Yeoman,,
+"Shoemaker, Rudolph",Montgomery,Yeoman,,
+"Smith, Robert",Albany,Farmer,,
+"Sheets, William",Montgomery,Farmer,,
+"Stuart, Simon",Montgomery,Farmer,,
